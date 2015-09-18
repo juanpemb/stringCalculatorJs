@@ -1,4 +1,3 @@
-function add(string){
-
+function add(string){return 0;
 }
 
